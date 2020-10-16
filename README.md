@@ -1,1 +1,1 @@
-# intermediateTextureGeneration via DCGAN and AutoEncoder
+# Intermediate Texture Generation via DCGAN and AutoEncoder
